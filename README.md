@@ -37,6 +37,6 @@ CT_US_COVID_TESTS
 
   Our dashboard utilizes a multi-chart approach to distinguish between community transmission 'flow' and hospital resource 'inventory.' This separation is critical for answering our analytical question, as it highlights a significant correlation between new cases and hospital resources and lag that may follow. 
 We discovered that while both metrics reached a statistical peak on January 4, 2021 (the tipping point), the data reveals a fundamental difference in their operational behavior. The 'New Cases' peak on Jan 4 was a sharp, isolated event—likely exacerbated by holiday reporting delays—followed by an immediate and rapid decline. Conversely, the demand for Ventilators and ICU beds on that same date represented the culmination of a two-month build-up. On the Ventilator Patients chart, after Jan 4, there is a slight declining slope following the point, illustrating the remaining strain caused by the new cases and shows the lingering effect or lag that it has caused. 
-To conclude, Tthis confirms that while the worst day for testing may have been Jan 4, the worst period for hospital resource strain persisted much longer continuing into March, proving that critical care demand is a lagging, more persistent indicator of a healthcare crisis.
+To conclude, this confirms that while the worst day for testing may have been Jan 4, the worst period for hospital resource strain persisted much longer continuing into March, proving that critical care demand is a lagging, more persistent indicator of a healthcare crisis.
 
 ## Streamlit App
